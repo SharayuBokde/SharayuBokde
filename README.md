@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=SharayuBokde&label=Profile%20views&color=blue&style=flat" alt="sharayubokde" /> 
 </p>
 
-Welcome to my profile! I am a Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering, Vile Parle. I am a Full Stack Web Developer. I am currently an intern at JPMorgan Chase & Co.
+Welcome to my profile! I am a Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering, Vile Parle. I am a Full Stack Web Developer.
 
 - 🔭 I’m currently working on building my competitive programming skills
 - 🌱 I’m currently learning Spring Boot
