@@ -41,10 +41,19 @@ Welcome to my profile! I am a Computer Engineering student at Dwarkadas J. Sangh
 
 ## My Github Stats
 
-
+<p align="center">
+<a href="https://github.com/SharayuBokde/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SharayuBokde&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/SharayuBokde/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharayuBokde&count_private=true&langs_count=8&layout=compact&theme=radical" />
+</a>
+</p>
+<!--
 
 [![Sharayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharayuBokde&count_private=true&show_icons=true&theme=radical)](https://github.com/SharayuBokde/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharayuBokde&count_private=true&langs_count=8&layout=compact&theme=radical)](https://github.com/SharayuBokde/github-readme-stats)
 
+-->
