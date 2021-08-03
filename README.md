@@ -34,10 +34,11 @@ Welcome to my profile! I am a Computer Engineering student at Dwarkadas J. Sangh
 <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> | <img title="bitbucket" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="50" height="50"/> | <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> | <img title="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> | <img title="Inkscape" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="50" height="50"/>
 |--|--|--|--|--|
 
+<!--
 **IDEs**
 <img title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> | <img title="intellij" src="https://github.com/SharayuBokde/SharayuBokde/blob/main/Images/intellij.png" alt="intellij" width="50" height="50"/> | <img title="jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
 |--|--|--|
-
+-->
 
 ## My Github Stats
 
