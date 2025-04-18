@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=SharayuBokde&label=Profile%20views&color=blue&style=flat" alt="sharayubokde" /> 
 </p>
 
-Welcome to my profile! I'm a passionate software engineer currently working as Associate SWE at JPMorgan Chase & Co.
+Welcome to my profile! I'm a passionate software engineer currently working at JPMorgan Chase & Co.
 
 - 🔭 Specializing in building scalable, highly available, and reliable STP services.
 - 🌱 Constantly learning and solving complex engineering challenges.
